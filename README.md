@@ -19,4 +19,4 @@ Tools Used - BeautifulSoup, Pandas, Matplotlib, Seaborn, Statsmodels, SKlearn
 Results:
 The best model for predicting the Metacritic score (range 0-100) was a linear regression model with log transformed features. The R2 on the training set was 0.323 and 0.226 for the test data. The MAE was 5.981 and RMSE was 7.355. The best model for predicting User rating-IMDB (range 0-10) was also a linear regression model with log transformed features. The R2 score for the training data was 0.344 and 0.166 for the test data. The MAE was 0.353 and RMSE was 0.469, therefore the model is generally 0.35 points away from the acutal rating, making it a decent predictor.
 
-Possible impacts of your project - Be able to predict the Metacritic score or user rating based on features such as box office and     distributor.
+Possible impacts of your project - Be able to predict the Metacritic score or user rating.
